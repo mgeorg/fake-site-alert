@@ -7,19 +7,18 @@ The initial was a simple [proof-of-concept](http://nymag.com/selectall/2016/11/h
 ## Features
 
 * Create a banner at the top of the page for sites on the watch list.
+* Tag the anchor text of links which will lead to watch list sites (currently only on Facebook).
 
 ## Future Feature List
 
-* Tag the anchor text of links which will lead to watch list sites.
-* Multiple lists with more specific warnings: [Fake News], [Satire], [Racist Content], etc.
+* Tag links on other popular sites.
+* Multiple lists with more specific warnings: [Fake News], [Satire], [Tabloid], etc.
 * Add ability to modify watch lists.
-* Facebook specific UI tweaks.
 
 ## Some other stuff
 
 Feel free to contribute.
 
-Contributors:
-* Brian Feldman
-* Manfred Georg
+You may also be interested in a more heavyweight extension which uses a backend server. 
+https://github.com/anantdgoel/HackPrincetonF16
 
